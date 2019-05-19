@@ -25,7 +25,7 @@ SECRET_KEY = 'w%*&@%%)=##0_4&8plqtbo#_ynh$_4ytyo&-^fjtx$jlnxm8&!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vast-harbor-52296.herokuapp.com/']
 
 
 # Application definition
