@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['vast-harbor-52296.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
